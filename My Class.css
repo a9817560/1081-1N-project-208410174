@@ -1,0 +1,61 @@
+#container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+table {
+  border: 1px solid;
+  padding: 5px;
+  font-size: 14px;
+}
+
+td {
+  text-align: center;
+  width: 80px;
+  height: 40px;
+  word-break: break-all;
+}
+
+.name {
+  background-color: rgb(32, 82, 221);
+  color: white;
+  font-size: 18px;
+}
+
+.tablename {
+  background-color: darkblue;
+  color: white;
+  font-size: 18px;
+}
+
+.weekday {
+  background-color: darkturquoise;
+  font-size: 18px;
+  border: 1px solid;
+}
+
+.number {
+  width: 18px;
+  background-color: chocolate;
+}
+
+.time {
+  background-color: bisque;
+  width: 90px;
+}
+
+.content {
+  background-color: rgb(219, 20, 209);
+  border: 1px solid;
+}
+
+.contact {
+  background-color: rgb(18, 64, 163);
+}
+
+.contactinfo {
+  background-color: rgb(53, 226, 19);
+  text-align: left;
+  padding-left: 5px;
+}
